@@ -1,0 +1,364 @@
+body{
+  font-family: "Roboto", sans-serif;
+}
+
+#navitem{
+  display: flex;
+  list-style: none;
+  gap: 23px;
+  margin-left: 900px;
+  font-weight: 700;
+  font-size: 15px;
+ 
+  color: black;
+
+}
+#head{
+  margin-left: 90px;
+  font-size: 25px;
+  color: rgba(0, 128, 255, 0.414);
+ 
+  
+}
+
+.headcontent{
+margin-top: 170px;
+text-align: center;
+}
+.headcontent hr{
+  margin-right:600px;
+  margin-left: 600px;
+  margin-top: 5px;
+
+}
+.headcontent h6{
+  font-size: 14px;
+  color: white;
+}
+.headcontent h2{
+  font-size: 30px;
+  margin-top: 10px;
+  color: white;
+}
+#but1{
+  margin-top: 30px;
+  padding: 10px 30px 10px 30px;;
+  color: white;
+  background-color: rgb(0, 140, 255);
+}
+#but2{
+  padding: 10px 30px 10px 30px;
+  color: white;
+  margin-left: 10px;
+  background-color: unset;
+ 
+
+ 
+}
+header{
+  background-image:  linear-gradient(rgba(1, 1, 1, 0),rgba(136, 136, 136, 0)) ,url(portfolio-img1.jpg);
+  background-size: cover;
+  height: 94vh;
+  background-position: center;
+  margin-bottom: -200px;
+  
+}
+#blue{
+  color: rgba(0, 115, 255, 0.943);
+}
+.whatcontent{
+  margin-top: 270px;
+}
+.num1{
+  text-align: center;
+}
+.num1 h1{
+  color:rgb(0, 183, 255);
+  font-size: 60px;
+}
+.num1 h2{
+  margin-top: 5px;
+
+}
+.num1 hr{
+  margin-top: 5px;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+.marketing{
+  display: flex;
+  
+  gap: 70px;
+  margin-top: 80px;
+  text-align: center;
+  margin-left: 100px;
+}
+.marketing2{
+  display: flex;
+ 
+   
+  gap: 70px;
+  margin-top: 80px;
+  text-align: center;
+  margin-left: 100px;
+}
+.marketing hr{
+  margin-top: 20px;
+}
+.marketing2 hr{
+  margin-top: 20px;
+}
+.marketing p{
+  margin-top: 20px;
+}
+.marketing2 p {
+  margin-top: 20px;
+}
+.contentnum3{
+  margin-top: 140px;
+}
+.our2{
+  text-align: center;
+}
+.our2 hr{
+  margin-left: 600px;
+  margin-right:600px;
+  margin-top: 30px;
+}
+.wholteam{
+  display: flex;
+}
+.digitalteam{
+  margin-left: 30px;
+  margin-top: 60px;
+}
+.teampic{
+  margin-left: 150px;
+  margin-top: 60px;
+}
+.wholteam p{
+  font-size: 14px;
+  font-weight: 400;
+
+}
+.our2 h1{
+  color:rgb(0, 183, 255);
+  font-size: 50px;
+
+}
+.digitalteam hr{
+  margin-right: 70px;
+}
+.contentnum3{
+  background-color: rgba(0, 0, 0, 0.74);
+  color: white;
+}
+.number3{
+  text-align: center;
+  margin-top: 100px;
+}
+.number3 hr{
+  margin-left: 600px;
+  margin-right: 600px;
+  margin-top: 30px;
+}
+.navall{
+  margin-top: 60px;
+  text-align: center;
+  list-style: none;
+  display: flex;
+  gap: 50px;
+  margin-left: 450px;
+  font-size: 16px;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.502);
+ 
+ 
+  
+
+}
+.smartpic{
+  display: grid;
+  grid-template-columns: auto auto auto ;
+  gap: 25px;
+  margin-left: 50px;
+  margin-top: 60px;
+ 
+}
+.smartpic2{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 25px;
+  margin-top: 60px;
+  margin-left: 50px;
+}
+.number3 h1{
+  font-size: 60px;
+  color:rgb(0, 183, 255);
+}
+.portfolio{
+  background-color: rgba(245, 245, 245, 0.822);
+}
+.number4{
+  margin-top: 100px;
+  text-align: center;
+
+}
+.number4 hr{
+  margin-left: 600px;
+  margin-right: 600px;
+  margin-top: 30px;
+}
+.number4 h1{
+  font-size: 60px;
+  color:rgb(0, 183, 255);
+}
+.businessdeal{
+  display: flex;
+  margin-top: 100px;
+  margin-left: 50px;
+  justify-content: space-evenly;
+}
+.basic1{
+border: 1px solid black;
+width: 20%;
+text-align: center;
+}
+.business{
+  border: 1px solid black;
+  width: 20%;
+  text-align: center;
+}
+.professional{
+  border: 1px solid black;
+  width: 20%;
+  text-align: center;
+  
+}
+#get{
+  background-color: rgba(0, 102, 255, 0.782);
+  color: white;
+  margin-bottom: 20px;
+
+
+ 
+}
+#take{
+background-color: rgba(255, 187, 0, 0.944);
+  color: white;
+
+ 
+}
+#buy{
+  background-color: rgba(0, 128, 77, 0.863);
+      color: white;
+    
+     
+  }
+  .businessdeal h1{
+      font-size: 45px;
+
+  }
+  .number5{
+      margin-top: 200px;
+      text-align: center;
+  }
+  #num5color{
+      color:rgb(0, 183, 255);
+      font-size: 60px;
+  }
+  .number5 hr{
+      margin-top: 30px;
+      margin-left: 600px;
+      margin-right: 600px;
+  }
+  .contactinfo{
+      margin-top: 150px;
+      margin-left: 100px;
+  }
+  .flex1{
+      display: flex;
+  }
+  .namebutton{
+      margin-top: 150px;
+      margin-left: 250px;
+  }
+  .msgbut{
+      margin-top: 300px;
+      margin-left: -250px;
+      
+  }
+  #name1{
+      background-color: rgb(255, 255, 255);
+      color: rgba(0, 0, 0, 0.947);
+      padding-right: 200px;
+  }
+  #emails{
+      background-color: rgb(255, 255, 255);
+      color: rgba(0, 0, 0, 0.947);
+      padding-right: 200px;
+  
+  }
+  #message{
+      background-color: white;
+      color: rgba(0, 0, 0, 0.923);
+      padding: 20px;
+      padding-right: 350px;
+      padding-bottom: 50px;
+  }
+  #send{
+      background-color: rgb(0, 128, 255);
+      color: white;
+      padding-left: 70px;
+      padding-right: 70px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+  }
+.contact5{
+  background-image: linear-gradient(rgba(171, 171, 171, 0),rgba(235, 235, 235, 0)) , url(portfolio-img2.jpg);
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+  color: black;
+}
+.number5 h2{
+  color: white;
+}
+.contactinfo p{
+  font-size: 17px;
+  font-weight: 500;
+color: rgb(0, 0, 0);
+}
+.footercontent{
+  margin-top: 150px;
+  text-align: center;
+  color: rgba(128, 128, 128, 0.999);
+  font-size: 16px;
+  font-weight: 700;
+}
+.footercontent hr{
+  margin-top: 30px;
+  margin-left: 600px;
+  margin-right: 600px;
+  margin-bottom: 80px;
+}
+.footpic{
+  display: flex;
+  text-align: center;
+  margin-left: 550px;
+  
+  margin-top: -30px;
+  margin-bottom: 80px;
+  
+
+}
+#pic3{
+  height: 10vh;
+  margin-top: 5px;
+}
+#pic4{
+  height: 10vh;
+  margin-top: 5px;
+}
+
+
